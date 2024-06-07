@@ -7,7 +7,7 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> HI I'M XEI SENSEI 🍭! 
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> HI I'M XEI 🍭! 
 *BOT DEVELOPER*
 <br /> 
 
@@ -20,7 +20,7 @@
 
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Xei_Sensei&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Xei_Sensei" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=Xei-Sensei&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Xei_Sensei" style="padding-right:20px;" />
 </p>
 
 ---
@@ -37,8 +37,8 @@
 <!--Trophies Section-->   
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
-  <a href="https://github.com/Xei_Sensei/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Xei_Sensei&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
+  <a href="https://github.com/Xei-Sensei/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Xei-Sensei&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
   </a>
 </p>
 <br />
@@ -51,16 +51,16 @@
     <td width="50%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/Xei_Sensei">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Xei_Sensei&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+        <a href="https://github.com/Xei-Sensei">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Xei-Sensei&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
         </a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/Xei_Sensei">
-          <img align="center" src="https://streak-stats.demolab.com?user=Xei_Sensei&theme=nightowl" alt="Streak Stats" />
+        <a href="https://github.com/Xei-Sensei">
+          <img align="center" src="https://streak-stats.demolab.com?user=Xei-Sensei&theme=nightowl" alt="Streak Stats" />
         </a>
       </p>
     </td>
@@ -69,16 +69,16 @@
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/Xei_Sensei/cryptos">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Xei_Sensei&repo=cryptos&theme=nightowl&show_owner=true" alt="Cryptos Project" />
+        <a href="https://github.com/Xei-Sensei/README.md">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Xei-Sensei&repo=cryptos&theme=nightowl&show_owner=true" alt="Cryptos Project" />
         </a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
-        <a href="https://github.com/Xei_Sensei">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Xei_Sensei&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
+        <a href="https://github.com/Xei-Sensei">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Xei-Sensei&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
         </a>
       </p>
     </td>
@@ -89,7 +89,7 @@
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xei_Sensei&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xei-Sensei&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
 
 ---
@@ -107,7 +107,7 @@
 <!--Contact Section--> 
   
 <a href="mailto: xeisensei7@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=kirannaragund197@gmail.com mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=xeisensei7@gmail.com mail style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.instagram.com/Xei_Sensei" target="_blank">
@@ -115,7 +115,7 @@
 </a>
 
 <a href="https://twitter.com/Xei_Sensei" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="kiran__a__n Twitter" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Xei Sensei" style="margin-bottom: 5px;" />
 </a>
 </div>
 
