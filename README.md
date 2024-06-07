@@ -114,8 +114,8 @@
 <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=kiran_a_n Instagram style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://twitter.com/Xei_Sensei" target="_blank">
-<img src="https://img.shields.io/badge/Whatsapp-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Xei Sensei" style="margin-bottom: 5px;" />
+<a href="https://wa.me/918252005404" target="_blank">
+<img src="https://img.shields.io/badge/Whatsapp-1DA1F2?style=for-the-badge&logo=WhatsApp &logoColor=red" alt="Xei Sensei" style="margin-bottom: 5px;" />
 </a>
 </div>
 
