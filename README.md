@@ -1,5 +1,6 @@
 <!--Banner-->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BA52F6&height=120&section=header"/>
+</p>
 ![Dipak Banner Image](https://github.com/Xei-Sensei/Sensei/blob/main/d6a313d27c6206a558643baed9b54e0d.jpg)
 
 <!--Night Owl image-->
@@ -122,5 +123,5 @@
 
 <!--Footer--> 
 <p align="center">
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BA52F6&height=120&section=bottom"/>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BA52F6&height=120&section=footer"/>
 </p>
