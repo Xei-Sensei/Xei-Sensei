@@ -111,7 +111,7 @@
 </a>
 
 <a href="https://www.instagram.com/Xei_Sensei" target="_blank">
-<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=kiran_a_n Instagram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=Xei-Sensei Instagram style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://wa.me/918252005404" target="_blank">
