@@ -70,7 +70,7 @@
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
         <a href="https://github.com/Xei-Sensei/README.md">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Xei-Sensei&repo=cryptos&theme=nightowl&show_owner=true" alt="Cryptos Project" />
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Xei-Sensei&repo=cryptos&theme=nightowl&show_owner=true" alt="XEI SENSEI 🍭" />
         </a>
       </p>
     </td>
