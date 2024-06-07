@@ -115,7 +115,7 @@
 </a>
 
 <a href="https://twitter.com/Xei_Sensei" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Xei Sensei" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Whatsapp-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Xei Sensei" style="margin-bottom: 5px;" />
 </a>
 </div>
 
