@@ -108,9 +108,9 @@
   
 <a href="https://instagram.com/xei-sensei" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/>
 <a href="https://www.youtube.com/@Xei-Sensei" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"/>
-<a href="xeisensei7@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-<a href="https://wa.me/918252005404"/>
+<a href="mailto: xeisensei7@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=xeisensei7@gmail.com mail style="margin-bottom: 5px;" />
+</a>
 <img src="https://img.shields.io/badge/WhatsApp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </div>
 
