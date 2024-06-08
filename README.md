@@ -106,17 +106,12 @@
 
 <!--Contact Section--> 
   
-<a href="mailto: xeisensei7@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=xeisensei7@gmail.com mail style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.instagram.com/Xei_Sensei" target="_blank">
-<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=Xei-Sensei Instagram style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://wa.me/918252005404" target="_blank">
-<img src="https://img.shields.io/badge/Whatsapp-1DA1F2?style=for-the-badge&logo=WhatsApp &logoColor=red" alt="Xei Sensei" style="margin-bottom: 5px;" />
-</a>
+<a href="https://instagram.com/xei-sensei" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/>
+<a href="https://www.youtube.com/@Xei-Sensei" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"/>
+<a href="xeisensei7@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<a href="wa.me/918252005404"/>
+<img src="https://img.shields.io/badge/WhatsApp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </div>
 
 <!--Footer--> 
