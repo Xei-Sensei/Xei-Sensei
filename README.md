@@ -2,21 +2,22 @@
 <p align="center">
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BA52F6&height=120&section=header"/>
 </p>
+
 <!--Night Owl image-->
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> HI I'M XEI ! 
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> HI I'M XEI! 
 *BOT DEVELOPER*
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">Hello! I’m Xei Sensei, also known as Dipak Sharma, coming to you from Mumbai. I’m deeply passionate about creating WhatsApp bots, and I absolutely love what I do. One of my standout creations is Glitch MD, which showcases the best of my work. I’m excited to share my journey !.</p>
+<p align="left">Hello! I’m Xei Sensei, also known as Dipak Sharma, coming to you from Mumbai. I’m deeply passionate about creating WhatsApp bots, and I absolutely love what I do. One of my standout creations is Glitch MD, which showcases the best of my work. I’m excited to share my journey!</p>
 
 - ✨ Student of life :)
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- 🌱 I’m currently learning many things; I believe that every day is a learning opportunity.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
@@ -33,7 +34,6 @@
 <img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,express,django,md,solidity,postgres,mongo,git,vscode,docker,aws,postman,supabase,linux&perline=10"  />
 </p>
 <br />
-
 
 <!--Trophies Section-->   
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
@@ -68,19 +68,18 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <h3 align="center"><strong>Fᴇᴀᴛᴜʀᴇᴅ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
         <a href="https://github.com/shizothetechie/OREO-BOT">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Xei-Sensei&repo=cryptos&theme=nightowl&show_owner=true" alt="XEI SENSEI 🍭" />
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Xei-Sensei&repo=cryptos&theme=nightowl&show_owner=true" alt="Featured Project" />
         </a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <h3 align="center"><strong>Hᴏɴᴏʀs ᴀɴᴅ Aᴄʜɪᴇᴠᴇᴍᴇɴᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/shizothetechie/OREO-BOT">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Xei-Sensei&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
-        </a>
+        <img align="center" width="470" src="https://img.shields.io/badge/Awesome%20Contributor-🎉-blue" alt="Awesome Contributor"/>
+        <img align="center" width="470" src="https://img.shields.io/badge/Top%20Bot%20Developer-🚀-green" alt="Top Bot Developer"/>
       </p>
     </td>
   </tr>
