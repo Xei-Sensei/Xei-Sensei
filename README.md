@@ -36,16 +36,13 @@
 <br />
 
 <!--New Highlights Section-->
-<h2 align="center">🔍 Nᴇᴡ Hɪɢʜʟɪɢʜᴛs 🔍</h2>
+<h2 align="center">🔍 Nᴇᴡ Hɪɢʜʟɪɡʜᴛs 🔍</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/Innovative%20Solutions-%E2%9C%94%EF%B8%8F-brightgreen?style=for-the-badge" alt="Innovative Solutions"/>
-  <img src="https://img.shields.io/badge/Community%20Support%20Champion-%F0%9F%92%9C-blue?style=for-the-badge" alt="Community Support Champion"/>
-  <img src="https://img.shields.io/badge/Advanced%20Bot%20Integration-%F0%9F%92%BB-yellow?style=for-the-badge" alt="Advanced Bot Integration"/>
-  <img src="https://img.shields.io/badge/Pro%20Bono%20Projects-%F0%9F%8F%8F-lightgrey?style=for-the-badge" alt="Pro Bono Projects"/>
-  <img src="https://img.shields.io/badge/Tech%20Mentorship-%F0%9F%8F%9F%EF%B8%8F-orange?style=for-the-badge" alt="Tech Mentorship"/>
-</p>
-<p align="center">
-  I’m proud to be recognized for delivering innovative solutions and integrating advanced bot technologies. My commitment to supporting the community and mentoring upcoming tech enthusiasts drives me forward. I’m also dedicated to pro bono projects that benefit various causes.
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Innovative%20Solutions-%E2%9C%94%EF%B8%8F-brightgreen?style=flat-square&logo=github&logoColor=white" alt="Innovative Solutions"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Community%20Support%20Champion-%F0%9F%92%9C-blue?style=flat-square&logo=github&logoColor=white" alt="Community Support Champion"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Advanced%20Bot%20Integration-%F0%9F%92%BB-yellow?style=flat-square&logo=github&logoColor=white" alt="Advanced Bot Integration"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Pro%20Bono%20Projects-%F0%9F%8F%8F-lightgrey?style=flat-square&logo=github&logoColor=white" alt="Pro Bono Projects"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Tech%20Mentorship-%F0%9F%8F%9F%EF%B8%8F-orange?style=flat-square&logo=github&logoColor=white" alt="Tech Mentorship"/></a>
 </p>
 <br />
 
