@@ -1,6 +1,7 @@
 <!--Banner-->
-![Dipak Banner Image](https://github.com/Xei-Sensei/Sensei/blob/main/d6a313d27c6206a558643baed9b54e0d.jpg)
-
+<p align="center">
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BA52F6&height=120&section=header"/>
+</p>
 <!--Night Owl image-->
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
@@ -12,7 +13,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">Hola , I am Xei Sensei, a dedicated developer currently focusing on creating advanced WhatsApp bots using Node.js.</p>
+<p align="left">Hello! I’m Xei Sensei, also known as Dipak Sharma, coming to you from Mumbai. I’m deeply passionate about creating WhatsApp bots, and I absolutely love what I do. One of my standout creations is Glitch MD, which showcases the best of my work. I’m excited to share my journey !.</p>
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
