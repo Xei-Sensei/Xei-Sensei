@@ -70,13 +70,13 @@
     <td width="50%">
       <h3 align="center"><strong>Hᴏɴᴏʀs ᴀɴᴅ Aᴄʜɪᴇᴠᴇᴍᴇɴᴛs</strong></h3>
       <p align="center">
-        <img align="center" width="470" src="https://img.shields.io/badge/Awesome%20Contributor-🎉-blue" alt="Awesome Contributor"/>
-        <img align="center" width="470" src="https://img.shields.io/badge/Top%20Bot%20Developer-🚀-green" alt="Top Bot Developer"/>
-        <img align="center" width="470" src="https://img.shields.io/badge/Best%20Innovation%20Award-🏆-purple" alt="Best Innovation Award"/>
-        <img align="center" width="470" src="https://img.shields.io/badge/Top%20Contributor%20of%20the%20Month-🌟-orange" alt="Top Contributor of the Month"/>
-        <img align="center" width="470" src="https://img.shields.io/badge/Community%20Choice%20Award-👏-red" alt="Community Choice Award"/>
-        <img align="center" width="470" src="https://img.shields.io/badge/Excellence%20in%20Automation-🔧-blue" alt="Excellence in Automation"/>
-        <img align="center" width="470" src="https://img.shields.io/badge/Top%20Open%20Source%20Contributor-🌐-cyan" alt="Top Open Source Contributor"/>
+        <img align="center" width="400" src="https://img.shields.io/badge/Awesome%20Contributor-🎉-blue?style=for-the-badge&logo=github" alt="Awesome Contributor"/>
+        <img align="center" width="400" src="https://img.shields.io/badge/Top%20Bot%20Developer-🚀-green?style=for-the-badge&logo=github" alt="Top Bot Developer"/>
+        <img align="center" width="400" src="https://img.shields.io/badge/Best%20Innovation%20Award-🏆-purple?style=for-the-badge&logo=github" alt="Best Innovation Award"/>
+        <img align="center" width="400" src="https://img.shields.io/badge/Top%20Contributor%20of%20the%20Month-🌟-orange?style=for-the-badge&logo=github" alt="Top Contributor of the Month"/>
+        <img align="center" width="400" src="https://img.shields.io/badge/Community%20Choice%20Award-👏-red?style=for-the-badge&logo=github" alt="Community Choice Award"/>
+        <img align="center" width="400" src="https://img.shields.io/badge/Excellence%20in%20Automation-🔧-blue?style=for-the-badge&logo=github" alt="Excellence in Automation"/>
+        <img align="center" width="400" src="https://img.shields.io/badge/Top%20Open%20Source%20Contributor-🌐-cyan?style=for-the-badge&logo=github" alt="Top Open Source Contributor"/>
       </p>
     </td>
   </tr>
