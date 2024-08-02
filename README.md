@@ -35,52 +35,18 @@
 </p>
 <br />
 
-<!--Trophies Section-->   
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<!--New Highlights Section-->
+<h2 align="center">🔍 Nᴇᴡ Hɪɢʜʟɪɢʜᴛs 🔍</h2>
 <p align="center">
-  <a href="https://github.com/Xei-Sensei/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Xei-Sensei&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
-  </a>
+  <img src="https://img.shields.io/badge/Innovative%20Solutions-%E2%9C%94%EF%B8%8F-brightgreen?style=for-the-badge" alt="Innovative Solutions"/>
+  <img src="https://img.shields.io/badge/Community%20Support%20Champion-%F0%9F%92%9C-blue?style=for-the-badge" alt="Community Support Champion"/>
+  <img src="https://img.shields.io/badge/Advanced%20Bot%20Integration-%F0%9F%92%BB-yellow?style=for-the-badge" alt="Advanced Bot Integration"/>
+  <img src="https://img.shields.io/badge/Pro%20Bono%20Projects-%F0%9F%8F%8F-lightgrey?style=for-the-badge" alt="Pro Bono Projects"/>
+  <img src="https://img.shields.io/badge/Tech%20Mentorship-%F0%9F%8F%9F%EF%B8%8F-orange?style=for-the-badge" alt="Tech Mentorship"/>
 </p>
-<br />
-
-<!--Github stats Table--> 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Xei-Sensei">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Xei-Sensei&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Xei-Sensei">
-          <img align="center" src="https://streak-stats.demolab.com?user=Xei-Sensei&theme=nightowl" alt="Streak Stats" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Hᴏɴᴏʀs ᴀɴᴅ Aᴄʜɪᴇᴠᴇᴍᴇɴᴛs</strong></h3>
-      <p align="center">
-        <img align="center" width="400" src="https://img.shields.io/badge/Awesome%20Contributor-🎉-blue?style=for-the-badge&logo=github" alt="Awesome Contributor"/>
-        <img align="center" width="400" src="https://img.shields.io/badge/Top%20Bot%20Developer-🚀-green?style=for-the-badge&logo=github" alt="Top Bot Developer"/>
-        <img align="center" width="400" src="https://img.shields.io/badge/Best%20Innovation%20Award-🏆-purple?style=for-the-badge&logo=github" alt="Best Innovation Award"/>
-        <img align="center" width="400" src="https://img.shields.io/badge/Top%20Contributor%20of%20the%20Month-🌟-orange?style=for-the-badge&logo=github" alt="Top Contributor of the Month"/>
-        <img align="center" width="400" src="https://img.shields.io/badge/Community%20Choice%20Award-👏-red?style=for-the-badge&logo=github" alt="Community Choice Award"/>
-        <img align="center" width="400" src="https://img.shields.io/badge/Excellence%20in%20Automation-🔧-blue?style=for-the-badge&logo=github" alt="Excellence in Automation"/>
-        <img align="center" width="400" src="https://img.shields.io/badge/Top%20Open%20Source%20Contributor-🌐-cyan?style=for-the-badge&logo=github" alt="Top Open Source Contributor"/>
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  I’m proud to be recognized for delivering innovative solutions and integrating advanced bot technologies. My commitment to supporting the community and mentoring upcoming tech enthusiasts drives me forward. I’m also dedicated to pro bono projects that benefit various causes.
+</p>
 <br />
 
 <!--Contribution Graph-->
