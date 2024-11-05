@@ -10,11 +10,11 @@
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> HI I'M XEI! 
-*BOT DEVELOPER*
+*Dipak Sharma*
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">Hello! I’m Xei Sensei, also known as Dipak Sharma, coming to you from Mumbai. I’m deeply passionate about creating WhatsApp bots, and I absolutely love what I do. One of my standout creations is Glitch MD, which showcases the best of my work. I’m excited to share my journey!</p>
+<p align="left">Xei Sensei, also known as Dipak Sharma, coming from Mumbai. He is the mastermind behind Glitch MD and a prominent figure in the field of ethical hacking. Renowned for his creativity, innovation, and unwavering dedication to knowledge, Xei Sensei inspires others through his expertise and passion for technology.!</p>
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things; I believe that every day is a learning opportunity.
